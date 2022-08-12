@@ -1,0 +1,10 @@
+{
+  "resourceName": "sevitaIncidentManagement",
+  "tableName": "sevitaIncidentManagement",
+  "partitionKey": {
+    "fieldName": "ID",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
