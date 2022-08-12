@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-incidentmanagementsy-dev-72354-authRole",
+      "UnauthRoleArn": "arn:aws:iam::314643652732:role/amplify-incidentmanagementsy-dev-72354-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::314643652732:role/amplify-incidentmanagementsy-dev-72354-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-incidentmanagementsy-dev-72354-deployment",
+      "UnauthRoleName": "amplify-incidentmanagementsy-dev-72354-unauthRole",
+      "StackName": "amplify-incidentmanagementsy-dev-72354",
+      "StackId": "arn:aws:cloudformation:us-east-1:314643652732:stack/amplify-incidentmanagementsy-dev-72354/05060e00-1a42-11ed-9312-122f6da2a26f",
+      "AmplifyAppId": "d39fotbe8n5m1z"
+    },
+    "categories": {
+      "function": {
+        "IncidentManagementHandler": {
+          "deploymentBucketName": "amplify-incidentmanagementsy-dev-72354-deployment",
+          "s3Key": "amplify-builds/IncidentManagementHandler-2b684a786b2f522b474c-build.zip"
+        }
+      }
+    }
+  }
+}
