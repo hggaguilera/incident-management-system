@@ -15,7 +15,7 @@
       "function": {
         "IncidentManagementHandler": {
           "deploymentBucketName": "amplify-incidentmanagementsy-dev-72354-deployment",
-          "s3Key": "amplify-builds/IncidentManagementHandler-2b684a786b2f522b474c-build.zip"
+          "s3Key": "amplify-builds/IncidentManagementHandler-52677836325a4e33764a-build.zip"
         }
       }
     }
