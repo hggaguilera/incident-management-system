@@ -10,6 +10,20 @@
       "StackName": "amplify-incidentmanagementsy-dev-82954",
       "StackId": "arn:aws:cloudformation:us-east-1:314643652732:stack/amplify-incidentmanagementsy-dev-82954/3d78f500-1a4b-11ed-a523-129b3d9bc9eb",
       "AmplifyAppId": "d1jikbaz9a251b"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1jikbaz9a251b",
+          "type": "cicd"
+        }
+      },
+      "function": {
+        "IncidentManagementHandler": {
+          "deploymentBucketName": "amplify-incidentmanagementsy-dev-82954-deployment",
+          "s3Key": "amplify-builds/IncidentManagementHandler-336d736d576f666f5432-build.zip"
+        }
+      }
     }
   }
 }
